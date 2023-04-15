@@ -1,4 +1,4 @@
-# HTML Academy. Учебный проект «VueWork»
+# Проект «VueWork»
 
 ## Начальные требования
 - Docker
