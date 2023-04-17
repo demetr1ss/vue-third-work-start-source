@@ -63,3 +63,8 @@
     </section>
   </main>
 </template>
+
+<script setup>
+import users from '../mocks/users.json';
+
+</script>

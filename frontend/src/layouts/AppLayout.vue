@@ -4,3 +4,8 @@
     <slot />
   </div>
 </template>
+
+<script setup>
+import AppLayoutHeader from './AppLayoutHeader.vue';
+
+</script>

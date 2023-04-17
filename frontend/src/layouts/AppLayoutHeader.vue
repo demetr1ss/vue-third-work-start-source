@@ -2,7 +2,7 @@
   <header class="header">
     <div class="header__logo">
       <a href="#" class="logo">
-        <img src="@assets/img/logo.svg" alt="VuewWork logo" width="147" height="23">
+        <img src="@/assets/img/logo.svg" alt="VuewWork logo" width="147" height="23">
       </a>
     </div>
 
